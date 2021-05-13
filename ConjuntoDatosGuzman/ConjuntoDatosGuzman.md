@@ -4,7 +4,7 @@
 
 ## Fecha: mayo, 2021
 
-## 1) Definir una pregunta de investigación
+## 1) Pregunta de investigación
 
 **Pregunta de investigación general:**
 
@@ -12,7 +12,16 @@
 
 **Pregunta de investigación específica:**
 
+***¿Qué herramientas de tecnología digital se pueden implementar en ballet clásico para fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines?***
 
-2) Definir el dominio de discurso
+## 2) Dominio de discurso
 
-3) Definir las entidades o tipos de objetos.
+Habilitadores digitales
+
+## 3) Entidades o tipos de objetos.
+
+Herramientas de tecnología digital
+
+
+
+Fin del documento. 
