@@ -18,6 +18,6 @@
 
 Habilitadores digitales
 
-## 3. Entidades o tipos de objetos
+## 3. Entidades
 
 Herramientas de tecnología digital
